@@ -1,3 +1,5 @@
 Vabbilisetti Sri Satya
 BSc-CSA
 I have learned how to create a GitHub Account and a new repository in GitHub
+I have learned how to upload a file.
+
